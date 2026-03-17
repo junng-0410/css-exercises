@@ -1,1 +1,28 @@
 /* Add CSS Styling */
+
+.class {
+    background-color: #FDA7A7;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 16px;
+}
+
+.class.big {
+    font-size: 24px;
+}
+
+div {
+    font-family: serif;
+}
+
+#blue-txt {
+    font-size: 36px;
+    color: #356EFF;
+    font-weight: 400;
+}
+
+#green-bg {
+    background-color: #83FA87;
+    color: #000000;
+    font-weight: 800;
+    font-size: 24px;
+}
